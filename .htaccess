@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile chatroomnode/.htpasswd
-require valid-user
